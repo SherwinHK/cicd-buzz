@@ -1,1 +1,1 @@
-web: gunicorn app:week5-les2-sherwin-mitchell
+web gunicorn app:week5-les2-sherwin-mitchell
